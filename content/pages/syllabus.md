@@ -42,8 +42,45 @@ The textbook is by and large an adequate substitute for class attendance; studen
 Grading
 -------
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Problem sets | 1/3 |
-| Two 1.5 hour exams | 1/3 |
-| Final 3 hour exam | 1/3
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Problem sets
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two 1.5 hour exams
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final 3 hour exam
+{{< tdclose >}}
+{{< tdopen >}}
+1/3
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

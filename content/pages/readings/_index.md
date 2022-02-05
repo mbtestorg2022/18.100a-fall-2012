@@ -45,45 +45,501 @@ P1–3: Problem 1–3, the third problem at the end of Chapter 1. These are at t
 
 **Notes on the table below**: The daily reading assignments (see column 3) depended on what the class had been able to cover that day, so they differed a little in order and content from the overall plan laid out in the "topics" column.
 
-| SES # | TOPICS | READINGS AND ASSIGNMENTS |
-| --- | --- | --- |
-| 1 | Monotone sequences; completeness; inequalities | &nbsp; |
-| 2 | Estimations; limit of a sequence | [Assignment 1 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_1) |
-| 3 | Examples of limits | [Assignment 2 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_2) |
-| 4 | Error term; limit theorems | &nbsp; |
-| 5 | Subsequences, cluster points | [Assignment 3 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_3) |
-| 6 | Nested intervals, Bolzano-Weierstrass theorem, Cauchy sequences | [Assignment 4 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_4) |
-| 7 | Completeness property for sets | &nbsp; |
-| 8 | Infinite series | [Assignment 5 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_5) |
-| 9 | Infinite series (cont.) | &nbsp; |
-| 10 | Power series | [Assignment 6 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_6) |
-| 11 | Functions; local and global properties | [Assignment 7 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_7) |
-| 12 | Exam 1 (open book) | &nbsp; |
-| 13 | Continuity | [Assignment 8 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_8) |
-| 14 | Continuity (cont.) | [Assignment 9 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_9) |
-| 15 | Intermediate-value theorem | [Assignment 10 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_10) |
-| 16 | Continuity theorems | [Assignment 11 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_11) |
-| 17 | Uniform continuity | &nbsp; |
-| 18 | Differentiation: local properties | [Assignment 12 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_12) |
-| 19 | Differentiation: global properties | [Assignment 13 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_13) |
-| 20 | Convexity; Taylor's theorem (skip proofs) | &nbsp; |
-| 21 | Integrability | [Assignment 14 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_14) |
-| 22 | Riemann integral | [Assignment 15 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_15) |
-| 23 | Fundamental theorems of calculus | &nbsp; |
-| 24 | Improper integrals, convergence, Gamma function | [Assignment 16 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_16) |
-| 25 | Stirling's formula; conditional convergence | [Assignment 17 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_17) |
-| 26 | Exam 2 (open book) | &nbsp; |
-| 27 | Uniform convergence of series | &nbsp; |
-| 28 | Continuity of sum; integration term-by-term | [Assignment 18 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_18) |
-| 29 | Differentiation term-by-term; analyticity | [Assignment 19 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_19) |
-| 30 | Continuous functions on the plane | [Assignment 20 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_20) |
-| 31 | Quantifiers and Negation | [Assignment 21 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_21) |
-| 32 | Plane point-set topology | [Assignment 22 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_22) |
-| 33 | Compact sets and open sets | &nbsp; |
-| 34 | Differentiating integrals with respect to a parameter | [Assignment 23 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_23) |
-| 35 | Leibniz and Fubini theorems | [Assignment 24 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_24) |
-| 36 | Improper integrals with a parameter | &nbsp; |
-| 37 | Differentiating and integrating improper integrals | [Assignment 25 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_25) |
-| 38 | Countability; sets of measure zero | &nbsp; |
-| 39 | Introduction to Lebesgue integral; review | [Assignment 26 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_26) |
-| 40 | Three-hour final exam during finals week (open book) |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS AND ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Monotone sequences; completeness; inequalities
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Estimations; limit of a sequence
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 1 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_1)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Examples of limits
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 2 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_2)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Error term; limit theorems
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Subsequences, cluster points
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 3 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_3)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Nested intervals, Bolzano-Weierstrass theorem, Cauchy sequences
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 4 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_4)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Completeness property for sets
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Infinite series
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 5 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_5)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Infinite series (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Power series
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 6 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_6)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Functions; local and global properties
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 7 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_7)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 1 (open book)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Continuity
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 8 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_8)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Continuity (cont.)
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 9 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_9)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Intermediate-value theorem
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 10 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_10)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+Continuity theorems
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 11 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_11)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Uniform continuity
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Differentiation: local properties
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 12 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_12)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+Differentiation: global properties
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 13 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_13)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+Convexity; Taylor's theorem (skip proofs)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Integrability
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 14 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_14)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Riemann integral
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 15 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_15)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Fundamental theorems of calculus
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Improper integrals, convergence, Gamma function
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 16 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_16)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Stirling's formula; conditional convergence
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 17 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_17)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Exam 2 (open book)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+27
+{{< tdclose >}}
+{{< tdopen >}}
+Uniform convergence of series
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+28
+{{< tdclose >}}
+{{< tdopen >}}
+Continuity of sum; integration term-by-term
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 18 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_18)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+29
+{{< tdclose >}}
+{{< tdopen >}}
+Differentiation term-by-term; analyticity
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 19 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_19)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+30
+{{< tdclose >}}
+{{< tdopen >}}
+Continuous functions on the plane
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 20 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_20)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+31
+{{< tdclose >}}
+{{< tdopen >}}
+Quantifiers and Negation
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 21 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_21)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+32
+{{< tdclose >}}
+{{< tdopen >}}
+Plane point-set topology
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 22 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_22)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+33
+{{< tdclose >}}
+{{< tdopen >}}
+Compact sets and open sets
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+34
+{{< tdclose >}}
+{{< tdopen >}}
+Differentiating integrals with respect to a parameter
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 23 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_23)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+35
+{{< tdclose >}}
+{{< tdopen >}}
+Leibniz and Fubini theorems
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 24 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_24)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+36
+{{< tdclose >}}
+{{< tdopen >}}
+Improper integrals with a parameter
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+37
+{{< tdclose >}}
+{{< tdopen >}}
+Differentiating and integrating improper integrals
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 25 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_25)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+38
+{{< tdclose >}}
+{{< tdopen >}}
+Countability; sets of measure zero
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+39
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction to Lebesgue integral; review
+{{< tdclose >}}
+{{< tdopen >}}
+[Assignment 26 readings and problems (PDF)]({{< baseurl >}}/resources/mit18_100af12_assign_26)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+40
+{{< tdclose >}}
+{{< tdopen >}}
+Three-hour final exam during finals week (open book)
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
