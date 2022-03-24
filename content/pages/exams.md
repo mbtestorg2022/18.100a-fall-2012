@@ -24,7 +24,7 @@ FILES
 {{< tdopen >}}
 [Practice questions for exam 1 (PDF)]({{< baseurl >}}/resources/mit18_100af12_exam1)
 
-[Practice true-false questions for exam 1 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)]({{< baseurl >}}/resources/mit18_100af12_truefalse)
+[Practice true-false questions for exam 1 (PDF)]({{< baseurl >}}/resources/mit18_100af12_truefalse)
 
 
 {{< tdclose >}}
