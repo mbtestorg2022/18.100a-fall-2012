@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information regarding continuity.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-100a-introduction-to-analysis-fall-2012/506cb1af6cbd21ec6d46740445358a36_MIT18_100AF12_Assign_8.pdf
 file_type: application/pdf
+parent_uid: 5ff15742-57c1-98fd-1898-19d238ec0b48
 resourcetype: Document
 title: 'Introduction to Analysis: Assignment 8'
 uid: 506cb1af-6cbd-21ec-6d46-740445358a36
